@@ -19,4 +19,6 @@ Bilibili, Twitter, Douyin Playback Default Speed Tuner
 
 抖音Douyin，基于25.6.0适配，兼容适配新版本，极速版等
 
+小红书, 基于8.23.0.5适配, 兼容新老版本
+
 如有不兼容，issue里反馈或提交PR到 [https://github.com/V-E-O/biliSpeed/](https://github.com/V-E-O/biliSpeed/)
