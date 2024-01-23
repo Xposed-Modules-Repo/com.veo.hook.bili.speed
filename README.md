@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bili调速
+# Bili调速 BiliSpeed
 
 哔哩哔哩B站, 推特, 抖音, 小红书默认播放速度调节，可以任意倍数:)
 
