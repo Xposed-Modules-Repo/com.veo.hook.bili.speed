@@ -2,7 +2,7 @@
 
 # Bili调速 BiliSpeed
 
-哔哩哔哩B站, 推特, 抖音, 小红书默认播放速度调节，可以任意倍数:)
+哔哩哔哩B站, 推特, 抖音, 小红书, IG默认播放速度调节，可以任意倍数:)
 
 Bilibili, Twitter, Douyin, XHS, Instagram Playback Default Speed Tuner
 
