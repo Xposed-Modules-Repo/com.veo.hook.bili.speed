@@ -2,9 +2,9 @@
 
 # Bili调速 BiliSpeed
 
-哔哩哔哩B站, 推特, 抖音, 小红书, IG默认播放速度调节，可以任意倍数:)
+哔哩哔哩B站, 推特X, 抖音, 小红书, IG默认播放速度调节，可以任意倍数:)
 
-Bilibili, Twitter, Douyin, XHS, Instagram Playback Default Speed Tuner
+Bilibili, Twitter X, Douyin, XHS, Instagram Playback Default Speed Tuner
 
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.veo.hook.bili.speed?include_prereleases)](https://github.com/Xposed-Modules-Repo/com.veo.hook.bili.speed/releases/latest)
 [![Download](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.veo.hook.bili.speed/total)](https://github.com/Xposed-Modules-Repo/com.veo.hook.bili.speed/releases)
@@ -15,7 +15,7 @@ Bilibili, Twitter, Douyin, XHS, Instagram Playback Default Speed Tuner
 
 哔哩哔哩B站基于7.25.0适配，兼容适配新老版本，PLAY版本
 
-推特Twitter，基于9.85.0-release.0适配，兼容适配新版本
+推特Twitter，基于9.85.0-release.0适配，兼容适配新版本, 包括X
 
 抖音Douyin，基于25.6.0适配，兼容适配新版本，极速版等
 
